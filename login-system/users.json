@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "example_hash_admin",
+    "role": "admin"
+  },
+  "user1": {
+    "password": "example_hash_user1",
+    "role": "user"
+  }
+}
